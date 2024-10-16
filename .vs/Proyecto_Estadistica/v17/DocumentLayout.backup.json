@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Mariela\\Desktop\\Esta\\Proyecto_Estadistica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{677EA909-BE2D-429C-8D4D-EF90C38DAFEB}|Presentacion_\\Presentacion_.vbproj|c:\\users\\mariela\\desktop\\esta\\proyecto_estadistica\\presentacion_\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{677EA909-BE2D-429C-8D4D-EF90C38DAFEB}|Presentacion_\\Presentacion_.vbproj|solutionrelative:presentacion_\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{677EA909-BE2D-429C-8D4D-EF90C38DAFEB}|Presentacion_\\Presentacion_.vbproj|c:\\users\\mariela\\desktop\\esta\\proyecto_estadistica\\presentacion_\\frmmediddas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{677EA909-BE2D-429C-8D4D-EF90C38DAFEB}|Presentacion_\\Presentacion_.vbproj|solutionrelative:presentacion_\\frmmediddas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677EA909-BE2D-429C-8D4D-EF90C38DAFEB}|Presentacion_\\Presentacion_.vbproj|c:\\users\\mariela\\desktop\\esta\\proyecto_estadistica\\presentacion_\\frmmeddidas2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{677EA909-BE2D-429C-8D4D-EF90C38DAFEB}|Presentacion_\\Presentacion_.vbproj|solutionrelative:presentacion_\\frmmeddidas2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{677EA909-BE2D-429C-8D4D-EF90C38DAFEB}|Presentacion_\\Presentacion_.vbproj|c:\\users\\mariela\\desktop\\esta\\proyecto_estadistica\\presentacion_\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{677EA909-BE2D-429C-8D4D-EF90C38DAFEB}|Presentacion_\\Presentacion_.vbproj|solutionrelative:presentacion_\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677EA909-BE2D-429C-8D4D-EF90C38DAFEB}|Presentacion_\\Presentacion_.vbproj|c:\\users\\mariela\\desktop\\esta\\proyecto_estadistica\\presentacion_\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{677EA909-BE2D-429C-8D4D-EF90C38DAFEB}|Presentacion_\\Presentacion_.vbproj|solutionrelative:presentacion_\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +35,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmMediddas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mariela\\Desktop\\Esta\\Proyecto_Estadistica\\Presentacion_\\frmMediddas.vb",
+              "RelativeDocumentMoniker": "Presentacion_\\frmMediddas.vb",
+              "ToolTip": "C:\\Users\\Mariela\\Desktop\\Esta\\Proyecto_Estadistica\\Presentacion_\\frmMediddas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion_\\frmMediddas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-16T04:52:50.64Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMeddidas2.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mariela\\Desktop\\Esta\\Proyecto_Estadistica\\Presentacion_\\frmMeddidas2.vb",
+              "RelativeDocumentMoniker": "Presentacion_\\frmMeddidas2.vb",
+              "ToolTip": "C:\\Users\\Mariela\\Desktop\\Esta\\Proyecto_Estadistica\\Presentacion_\\frmMeddidas2.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion_\\frmMeddidas2.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-16T04:52:48.86Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\Mariela\\Desktop\\Esta\\Proyecto_Estadistica\\Presentacion_\\Form1.vb",
               "RelativeDocumentMoniker": "Presentacion_\\Form1.vb",
@@ -39,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Mariela\\Desktop\\Esta\\Proyecto_Estadistica\\Presentacion_\\Form1.vb",
               "RelativeDocumentMoniker": "Presentacion_\\Form1.vb",
