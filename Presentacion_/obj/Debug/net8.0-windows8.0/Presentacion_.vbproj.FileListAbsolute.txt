@@ -27,3 +27,4 @@ C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\bin\Debug\net8.
 C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\bin\Debug\net8.0-windows8.0\REGRESION LINEAL SIMPLE.dll
 C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\bin\Debug\net8.0-windows8.0\REGRESION LINEAL SIMPLE.pdb
 C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presentacion_.Resources.resources
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presentacion_.sourcelink.json

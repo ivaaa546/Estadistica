@@ -63,13 +63,6 @@ Public Class Form1
     End Sub
 
     Private Sub RegresiónLinealSimpleToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles RegresiónLinealSimpleToolStripMenuItem.Click
-        ' Crear una nueva instancia de Form2
-        Dim nuevoFormulario As New frmRegresionLineal
 
-        ' Ocultar el formulario actual (Form1)
-        Hide() ' Ocultar Form1
-
-        ' Mostrar Form2
-        nuevoFormulario.Show()
     End Sub
 End Class

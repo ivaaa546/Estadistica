@@ -7,6 +7,9 @@
     <Compile Update="frmMDCentral.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="frmMeddidas2.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="frmMediddas.vb">
       <SubType>Form</SubType>
     </Compile>
