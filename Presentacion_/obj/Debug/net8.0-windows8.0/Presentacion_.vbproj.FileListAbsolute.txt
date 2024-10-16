@@ -1,0 +1,29 @@
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\bin\Debug\net8.0-windows8.0\Presentacion_.exe
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\bin\Debug\net8.0-windows8.0\Presentacion_.deps.json
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\bin\Debug\net8.0-windows8.0\Presentacion_.runtimeconfig.json
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\bin\Debug\net8.0-windows8.0\Presentacion_.dll
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\bin\Debug\net8.0-windows8.0\Presentacion_.pdb
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\bin\Debug\net8.0-windows8.0\Datos.dll
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\bin\Debug\net8.0-windows8.0\Datos.pdb
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presentacion_.vbproj.AssemblyReference.cache
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presentacion_.Form1.resources
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presentacion_.frmMDCentral.resources
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presentacion_.frmMeddidas2.resources
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presentacion_.frmMediddas.resources
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presentacion_.vbproj.GenerateResource.cache
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presentacion_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presentacion_.AssemblyInfoInputs.cache
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presentacion_.AssemblyInfo.vb
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presentacion_.vbproj.CoreCompileInputs.cache
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presenta.56B410B8.Up2Date
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presentacion_.dll
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\refint\Presentacion_.dll
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presentacion_.pdb
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presentacion_.genruntimeconfig.cache
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\ref\Presentacion_.dll
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\bin\Debug\net8.0-windows8.0\REGRESION LINEAL SIMPLE.deps.json
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\bin\Debug\net8.0-windows8.0\REGRESION LINEAL SIMPLE.runtimeconfig.json
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\bin\Debug\net8.0-windows8.0\REGRESION LINEAL SIMPLE.exe
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\bin\Debug\net8.0-windows8.0\REGRESION LINEAL SIMPLE.dll
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\bin\Debug\net8.0-windows8.0\REGRESION LINEAL SIMPLE.pdb
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Presentacion_\obj\Debug\net8.0-windows8.0\Presentacion_.Resources.resources

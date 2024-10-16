@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "REGRESION LINEAL SIMPLE/1.0.0": {
+        "runtime": {
+          "REGRESION LINEAL SIMPLE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "REGRESION LINEAL SIMPLE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

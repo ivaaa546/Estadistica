@@ -1,0 +1,11 @@
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Datos\bin\Debug\net8.0\Datos.deps.json
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Datos\bin\Debug\net8.0\Datos.dll
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Datos\bin\Debug\net8.0\Datos.pdb
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Datos\obj\Debug\net8.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Datos\obj\Debug\net8.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Datos\obj\Debug\net8.0\Datos.AssemblyInfo.vb
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Datos\obj\Debug\net8.0\Datos.vbproj.CoreCompileInputs.cache
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Datos\obj\Debug\net8.0\Datos.dll
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Datos\obj\Debug\net8.0\refint\Datos.dll
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Datos\obj\Debug\net8.0\Datos.pdb
+C:\Users\Mariela\Desktop\Esta\Proyecto_Estadistica\Datos\obj\Debug\net8.0\ref\Datos.dll
